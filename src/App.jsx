@@ -46,7 +46,7 @@ export default function App() {
         </h1>
 
         <p className="mt-3 text-slate-600 font-medium">
-          Week 4: Tailwind + Controlled vs Uncontrolled Inputs
+          Tailwind + Controlled vs Uncontrolled Inputs
         </p>
       </div>
 
